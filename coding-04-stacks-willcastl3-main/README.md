@@ -28,7 +28,3 @@ To use this application, compile the source files using a C++ compiler and execu
 ## Author
 
 - **Name**: William Castillo
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
